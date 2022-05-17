@@ -11,7 +11,7 @@
             <div class="card-header">Acceso al servicio DAV</div>
             <div class="card-body">
                 <div class="card">
-			<a href="http://192.168.122.252/webdav" style="text-align: center; font-size:2rem;">Haz click aqui para entrar al sistema</a>
+			<a href="http://192.168.10.10/webdav" style="text-align: center; font-size:2rem;">Haz click aqui para entrar al sistema</a>
                 </div>	
             </div>
         </div>
